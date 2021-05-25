@@ -9,7 +9,7 @@ class Unicorn {
   }
 
   says(string) {
-    return `**;* ${string} *;**`
+    return `**;* ${string} *;**`;
   }
 }
 
